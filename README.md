@@ -14,7 +14,7 @@ Ein interaktives 3D-Wasserlabor. Du erkundest die **Wasseroberfläche**, tauchst
 ## Bedienung
 
 - **Ziehen** Kamera · **Tippen** Wasserring · **Scrollen / Pinch** Zoom
-- Stimmungen und Kräfte im **Wasserstudio** · **⛶** Vollbild
+- Stimmungen und Kräfte im **Wasserstudio** · **⛶** Vollbild (am Desktop)
 
 ## Was es ist und was (noch) nicht
 
