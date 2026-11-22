@@ -36,6 +36,8 @@ Die Dateien in diesem Repository und im Release sind byte-gleich. SHA-256 (auch 
 7c2849d4e94d5e2b7e39aa1fa61ebd2c0c66de9c6b427a35dd4a7053507c45e0  NIGIN_Wasserwelt_v4_27_1.html
 ```
 
+Was sich je Version geändert hat, steht in [CHANGELOG.md](CHANGELOG.md).
+
 ## Lizenz
 
 Kostenlos spielen und unverändert nicht-kommerziell weitergeben ist erlaubt, mit Herkunftsangabe. Alles Weitere regelt die [NIGIN Spielnutzungs-Lizenz](LICENSE.md).
